@@ -1,2 +1,11 @@
 List of Mods:
-
+Ars Magica 2
+Applied Energistics
+Thermal Expansion 
+Hats
+Witchery
+Tinkers Construct
+Extra Utilities
+Open Blocks
+Pams Harvestcraft
+AgriCraft
