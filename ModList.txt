@@ -4,6 +4,7 @@ Thaumcraft
 IC2
 JourneyMap
 Baubles
+Notenoughitems/chickencore
 
 
 Awaiting Updates:
