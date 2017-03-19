@@ -1,10 +1,15 @@
 INSTRUCTIONS ON HOW TO INSTALL THE MODPACK:
 
-download this repository
-run the forge installer located inside the forge folder
-run forge and exit
-open your minecraft directory located in %appdata%
-copy the mods from the mysticpack mods folder and place them inside your mods folder in the minecraft directory
-run forge again
+1. download this repository
 
-Profit.
+2. run the forge installer located inside the forge folder
+
+3. run forge and exit
+
+4. open your minecraft directory located in %appdata%
+
+5. copy the mods from the mysticpack mods folder and place them inside your mods folder in the minecraft directory
+
+6. run forge again
+
+7. Profit.
