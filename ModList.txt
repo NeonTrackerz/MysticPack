@@ -3,11 +3,13 @@ Tinker's Construct
 Thaumcraft
 IC2
 JourneyMap
-Baubles
-Notenoughitems/chickencore
+IronChest
 
 
 Awaiting Updates:
 Ars Magicka 2
 Witchery
 COFH Mods
+
+Additions:
+NotEnoughItems
