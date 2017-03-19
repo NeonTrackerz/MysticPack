@@ -1,0 +1,40 @@
+[16:06:25] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[16:06:39] [Server thread/INFO]: Loading properties
+[16:06:39] [Server thread/INFO]: Default game type: SURVIVAL
+[16:06:39] [Server thread/INFO]: Generating keypair
+[16:06:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:06:40] [Server thread/INFO]: Using default channel type
+[16:06:43] [Server thread/INFO]: Preparing level "world"
+[16:06:44] [Server thread/INFO]: Preparing start region for level 0
+[16:06:45] [Server thread/INFO]: Preparing spawn area: 25%
+[16:06:46] [Server thread/INFO]: Done (2.282s)! For help, type "help" or "?"
+[16:10:28] [Server thread/INFO]: --- Showing help page 1 of 9 (/help <page>) ---
+[16:10:28] [Server thread/INFO]: /achievement <give|take> <stat_name|*> [player]
+[16:10:28] [Server thread/INFO]: /ban <name> [reason ...]
+[16:10:28] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[16:10:28] [Server thread/INFO]: /banlist [ips|players]
+[16:10:28] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[16:10:28] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[16:10:28] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[16:10:36] [Server thread/INFO]: --- Showing help page 2 of 9 (/help <page>) ---
+[16:10:36] [Server thread/INFO]: /debug <start|stop>
+[16:10:36] [Server thread/INFO]: /defaultgamemode <mode>
+[16:10:36] [Server thread/INFO]: /deop <player>
+[16:10:36] [Server thread/INFO]: /difficulty <new difficulty>
+[16:10:36] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+[16:10:36] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[16:10:36] [Server thread/INFO]: /entitydata <entity> <dataTag>
+[16:10:38] [Server thread/INFO]: You can also use /thaum or /tc instead of /thaumcraft.
+[16:10:38] [Server thread/INFO]: Use this to give research to a player.
+[16:10:38] [Server thread/INFO]:   /thaumcraft research <list|player> <all|reset|<research>>
+[16:10:38] [Server thread/INFO]: Use this to give set a players warp level.
+[16:10:38] [Server thread/INFO]:   /thaumcraft warp <player> <add|set> <amount> <PERM|TEMP>
+[16:10:38] [Server thread/INFO]:   not specifying perm or temp will just add normal warp
+[16:12:09] [Server thread/INFO]: Stopping the server
+[16:12:09] [Server thread/INFO]: Stopping server
+[16:12:09] [Server thread/INFO]: Saving players
+[16:12:09] [Server thread/INFO]: Saving worlds
+[16:12:09] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[16:12:10] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[16:12:10] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[16:12:10] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
