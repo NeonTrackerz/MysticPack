@@ -13,3 +13,6 @@ INSTRUCTIONS ON HOW TO INSTALL THE MODPACK:
 6. run forge again
 
 7. Profit.
+
+
+The server files are not needed, they are only for the beta testers. But feel free to run it, i will not provide instructions to do so however.
