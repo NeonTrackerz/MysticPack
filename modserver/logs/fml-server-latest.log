@@ -1,0 +1,1190 @@
+[16:38:03] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[16:38:03] [main/INFO] [FML/]: Forge Mod Loader version 11.15.1.1902 for Minecraft 1.8.9 loading
+[16:38:03] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_77, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_77
+[16:38:03] [main/DEBUG] [FML/]: Java classpath at launch is forge-1.8.9-11.15.1.1902-1.8.9-universal.jar
+[16:38:03] [main/DEBUG] [FML/]: Java library path at launch is C:\Program Files\Java\jre1.8.0_77\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\gamer\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\gamer\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Python35-32\Scripts;C:\Program Files (x86)\Python35-32;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Skype\Phone;C:\Users\gamer\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.
+[16:38:03] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[16:38:03] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[16:38:03] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[16:38:03] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[16:38:03] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[16:38:03] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[16:38:03] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[16:38:03] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\dev\mysticpack\modserver\.
+[16:38:03] [main/DEBUG] [FML/]: Discovering coremods
+[16:38:03] [main/DEBUG] [FML/]: Examining for coremod candidacy Baubles-1.8.9-1.1.3.0.jar
+[16:38:03] [main/DEBUG] [FML/]: Not found coremod data in Baubles-1.8.9-1.1.3.0.jar
+[16:38:03] [main/DEBUG] [FML/]: Examining for coremod candidacy industrialcraft-2-2.3.262-ex18.jar
+[16:38:04] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in industrialcraft-2-2.3.262-ex18.jar, it will be examined later for regular @Mod instances
+[16:38:04] [main/DEBUG] [FML/]: Instantiating coremod class IC2core
+[16:38:04] [main/WARN] [FML/]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:38:06] [main/DEBUG] [FML/]: Enqueued coremod IC2core
+[16:38:06] [main/DEBUG] [FML/]: Examining for coremod candidacy ironchest-1.8.9-6.0.125.770.jar
+[16:38:06] [main/DEBUG] [FML/]: Not found coremod data in ironchest-1.8.9-6.0.125.770.jar
+[16:38:06] [main/DEBUG] [FML/]: Examining for coremod candidacy journeymap-1.8.9-5.2.4-unlimited.jar
+[16:38:06] [main/DEBUG] [FML/]: Not found coremod data in journeymap-1.8.9-5.2.4-unlimited.jar
+[16:38:06] [main/DEBUG] [FML/]: Examining for coremod candidacy Mantle-1.8.9-0.9.2.jar
+[16:38:07] [main/DEBUG] [FML/]: Not found coremod data in Mantle-1.8.9-0.9.2.jar
+[16:38:07] [main/DEBUG] [FML/]: Examining for coremod candidacy TConstruct-1.8.9-2.2.1.jar
+[16:38:07] [main/DEBUG] [FML/]: Not found coremod data in TConstruct-1.8.9-2.2.1.jar
+[16:38:07] [main/DEBUG] [FML/]: Examining for coremod candidacy Thaumcraft-1.8.9-5.2.4.jar
+[16:38:07] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Thaumcraft-1.8.9-5.2.4.jar, it will be examined later for regular @Mod instances
+[16:38:07] [main/DEBUG] [FML/]: Instantiating coremod class ThaumcraftLoader
+[16:38:07] [main/WARN] [FML/]: The coremod thaumcraft.loader.ThaumcraftLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:38:07] [main/DEBUG] [FML/]: Enqueued coremod ThaumcraftLoader
+[16:38:07] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:38:07] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:38:07] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:38:07] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:38:07] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:38:07] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[16:38:07] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[16:38:07] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[16:38:07] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[16:38:07] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[16:38:07] [main/DEBUG] [FML/]: Injection complete
+[16:38:07] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[16:38:07] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[16:38:08] [main/DEBUG] [FML/]: Read 825 binary patches
+[16:38:08] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.8.9.lzma with 27891 records
+[16:38:09] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:38:09] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[16:38:09] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:38:09] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[16:38:09] [main/DEBUG] [FML/]: Injection complete
+[16:38:09] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[16:38:09] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[16:38:09] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[16:38:09] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:38:09] [main/DEBUG] [FML/]: Injecting coremod IC2core {ic2.core.coremod.IC2core} class transformers
+[16:38:09] [main/DEBUG] [FML/]: Injection complete
+[16:38:09] [main/DEBUG] [FML/]: Running coremod plugin for IC2core {ic2.core.coremod.IC2core}
+[16:38:09] [main/DEBUG] [FML/]: Running coremod plugin IC2core
+[16:38:09] [main/INFO] [IC2-core/]: Loaded library EJML-core-0.26.jar.
+[16:38:09] [main/DEBUG] [FML/]: Coremod plugin class IC2core run successfully
+[16:38:09] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:38:09] [main/DEBUG] [FML/]: Injecting coremod ThaumcraftLoader {thaumcraft.loader.ThaumcraftLoader} class transformers
+[16:38:09] [main/DEBUG] [FML/]: Injection complete
+[16:38:09] [main/DEBUG] [FML/]: Running coremod plugin for ThaumcraftLoader {thaumcraft.loader.ThaumcraftLoader}
+[16:38:09] [main/DEBUG] [FML/]: Running coremod plugin ThaumcraftLoader
+[16:38:09] [main/DEBUG] [FML/]: Coremod plugin class ThaumcraftLoader run successfully
+[16:38:09] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:38:09] [main/DEBUG] [FML/]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
+[16:38:09] [main/DEBUG] [FML/]: Loaded 21 rules from AccessTransformer mod jar file C:\Dev\MysticPack\modserver\mods\TConstruct-1.8.9-2.2.1.jar!META-INF/TConstruct_at.cfg
+
+[16:38:09] [main/DEBUG] [FML/]: Validating minecraft
+[16:38:09] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[16:38:09] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:38:09] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:38:10] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:38:18] [Server thread/INFO] [FML/]: MinecraftForge v11.15.1.1902 Initialized
+[16:38:18] [Server thread/INFO] [FML/]: Replaced 229 ore recipies
+[16:38:18] [Server thread/DEBUG] [FML/]: File C:\Dev\MysticPack\modserver\config\injectedDependencies.json not found. No dependencies injected
+[16:38:18] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[16:38:18] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a minecraft related file at C:\Dev\MysticPack\modserver\forge-1.8.9-11.15.1.1902-1.8.9-universal.jar, examining for mod candidates
+[16:38:18] [Server thread/TRACE] [FML/]: Skipping known library file C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar
+[16:38:18] [Server thread/TRACE] [FML/]: Skipping known library file C:\Dev\MysticPack\modserver\mods\Thaumcraft-1.8.9-5.2.4.jar
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a minecraft related file at C:\dev\mysticpack\modserver\.\mods\ic2\EJML-core-0.26.jar, examining for mod candidates
+[16:38:18] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[16:38:18] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[16:38:18] [Server thread/INFO] [FML/]: Searching C:\Dev\MysticPack\modserver\mods for mods
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate mod directory 1.8.9
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate mod directory ic2
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file industrialcraft-2-2.3.262-ex18.jar
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ironchest-1.8.9-6.0.125.770.jar
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file journeymap-1.8.9-5.2.4-unlimited.jar
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Mantle-1.8.9-0.9.2.jar
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file TConstruct-1.8.9-2.2.1.jar
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Thaumcraft-1.8.9-5.2.4.jar
+[16:38:18] [Server thread/INFO] [FML/]: Also searching C:\Dev\MysticPack\modserver\mods\1.8.9 for mods
+[16:38:18] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Baubles-1.8.9-1.1.3.0.jar
+[16:38:18] [Server thread/DEBUG] [FML/]: Examining file forge-1.8.9-11.15.1.1902-1.8.9-universal.jar for potential mods
+[16:38:18] [Server thread/DEBUG] [FML/]: The mod container forge-1.8.9-11.15.1.1902-1.8.9-universal.jar appears to be missing an mcmod.info file
+[16:38:20] [Server thread/DEBUG] [FML/]: Examining file EJML-core-0.26.jar for potential mods
+[16:38:20] [Server thread/DEBUG] [FML/]: The mod container EJML-core-0.26.jar appears to be missing an mcmod.info file
+[16:38:20] [Server thread/DEBUG] [FML/]: Examining directory 1.8.9 for potential mods
+[16:38:20] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory 1.8.9
+[16:38:20] [Server thread/DEBUG] [FML/]: Examining directory ic2 for potential mods
+[16:38:20] [Server thread/DEBUG] [FML/]: No mcmod.info file found in directory ic2
+[16:38:20] [Server thread/DEBUG] [FML/]: Examining file industrialcraft-2-2.3.262-ex18.jar for potential mods
+[16:38:20] [Server thread/TRACE] [FML/]: Located mcmod.info file in file industrialcraft-2-2.3.262-ex18.jar
+[16:38:20] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (ic2.core.IC2) - loading
+[16:38:20] [Server thread/TRACE] [IC2/]: Parsed dependency info : [Forge@[11.15.1.1757,)] [Forge@[11.15.1.1757,)] []
+[16:38:21] [Server thread/DEBUG] [FML/]: Examining file ironchest-1.8.9-6.0.125.770.jar for potential mods
+[16:38:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ironchest-1.8.9-6.0.125.770.jar
+[16:38:21] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cpw.mods.ironchest.IronChest) - loading
+[16:38:21] [Server thread/TRACE] [IronChest/]: Parsed dependency info : [Forge@[11.15.0,12.0]] [Forge@[11.15.0,12.0]] []
+[16:38:21] [Server thread/DEBUG] [IronChest/]: Attempting to load the file version.properties from ironchest-1.8.9-6.0.125.770.jar to locate a version number for IronChest
+[16:38:21] [Server thread/DEBUG] [IronChest/]: Found version 6.0.125.770 for mod IronChest in version.properties, using
+[16:38:21] [Server thread/DEBUG] [FML/]: Examining file journeymap-1.8.9-5.2.4-unlimited.jar for potential mods
+[16:38:21] [Server thread/TRACE] [FML/]: Located mcmod.info file in file journeymap-1.8.9-5.2.4-unlimited.jar
+[16:38:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (journeymap.common.Journeymap) - loading
+[16:38:22] [Server thread/TRACE] [journeymap/]: Using mcmod dependency info : [Forge@[11.15.1.1722,)] [Forge@[11.15.1.1722,)] []
+[16:38:22] [Server thread/DEBUG] [FML/]: Examining file Mantle-1.8.9-0.9.2.jar for potential mods
+[16:38:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Mantle-1.8.9-0.9.2.jar
+[16:38:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.mantle.Mantle) - loading
+[16:38:23] [Server thread/TRACE] [mantle/]: Parsed dependency info : [Forge@[11.15,)] [Forge@[11.15,)] []
+[16:38:23] [Server thread/DEBUG] [FML/]: Examining file TConstruct-1.8.9-2.2.1.jar for potential mods
+[16:38:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file TConstruct-1.8.9-2.2.1.jar
+[16:38:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.tconstruct.TConstruct) - loading
+[16:38:23] [Server thread/TRACE] [tconstruct/]: Parsed dependency info : [mantle@[1.8.9-0.9.0,), Forge@[11.15.1.1761,)] [Forge@[11.15.1.1761,), mantle@[1.8.9-0.9.0,)] []
+[16:38:23] [Server thread/DEBUG] [FML/]: Examining file Thaumcraft-1.8.9-5.2.4.jar for potential mods
+[16:38:23] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Thaumcraft-1.8.9-5.2.4.jar
+[16:38:23] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (thaumcraft.common.Thaumcraft) - loading
+[16:38:23] [Server thread/TRACE] [Thaumcraft/]: Parsed dependency info : [Baubles@[1.1.3.0,), Forge@[11.15.1.1738,)] [Forge@[11.15.1.1738,), Baubles@[1.1.3.0,)] []
+[16:38:24] [Server thread/DEBUG] [FML/]: Examining file Baubles-1.8.9-1.1.3.0.jar for potential mods
+[16:38:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Baubles-1.8.9-1.1.3.0.jar
+[16:38:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (baubles.common.Baubles) - loading
+[16:38:24] [Server thread/TRACE] [Baubles/]: Parsed dependency info : [Forge@[11.15.0,)] [Forge@[11.15.0,)] []
+[16:38:24] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 10 mods to load
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.energy.tile (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.util (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.energy.event (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.reactor (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API thaumcraft.api (owned by Thaumcraft providing Thaumcraft|API) embedded in Thaumcraft
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API journeymap.client.api.model (owned by journeymap providing journeymap|client-api-model) embedded in journeymap
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API journeymap.client.api.event (owned by journeymap providing journeymap|client-api-event) embedded in journeymap
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API journeymap.client.api.util (owned by journeymap providing journeymap|client-api-util) embedded in journeymap
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.tile (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.energy (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.event (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.network (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API baubles.api (owned by Baubles providing Baubles|API) embedded in Baubles
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API journeymap.client.api (owned by journeymap providing journeymap|client-api) embedded in journeymap
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.crops (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.energy.prefab (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.info (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.item (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/WARN] [FML/]: * The API IC2API from source C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:94)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:154)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:212)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:489)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+[16:38:24] [Server thread/WARN] [FML/]: *  at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)...
+[16:38:24] [Server thread/WARN] [FML/]: ****************************************
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API ic2.api.recipe (owned by IC2 providing IC2API) embedded in IC2
+[16:38:24] [Server thread/DEBUG] [FML/]: Found API journeymap.client.api.display (owned by journeymap providing journeymap|client-api-display) embedded in journeymap
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Baubles|API: owner: Baubles, dependents: []
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-model: owner: journeymap, dependents: []
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api: owner: journeymap, dependents: []
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-display: owner: journeymap, dependents: []
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API Thaumcraft|API: owner: Thaumcraft, dependents: []
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-event: owner: journeymap, dependents: []
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API journeymap|client-api-util: owner: journeymap, dependents: []
+[16:38:24] [Server thread/DEBUG] [FML/]: Creating API container dummy for API IC2API: owner: IC2, dependents: []
+[16:38:24] [Server thread/TRACE] [FML/]: Received a system property request ''
+[16:38:24] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[16:38:24] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.1902-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.1902-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[16:38:25] [Server thread/DEBUG] [IC2/]: Enabling mod IC2
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in industrialcraft-2-2.3.262-ex18.jar [en_IC]
+[16:38:25] [Server thread/DEBUG] [IronChest/]: Enabling mod IronChest
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in ironchest-1.8.9-6.0.125.770.jar [sv_SE, pl_PL, da_DK, en_US, et_EE, cs_CZ, pt_BR, en_PT, tr_TR, es_ES, fr_FR, ru_RU, nb_NO, el_GR, de_DE, zh_TW, it_IT, ko_KR, pt_PT, zh_CN, nl_NL]
+[16:38:25] [Server thread/DEBUG] [journeymap/]: Enabling mod journeymap
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in journeymap-1.8.9-5.2.4-unlimited.jar [ar_SA, ca_ES, de_DE, en_US, es_ES, fi_FI, fr_CA, fr_FR, hu_HU, ja_JP, ko_KR, nl_NL, no_NO, pt_BR, ru_RU, sv_SE, zh_CN]
+[16:38:25] [Server thread/DEBUG] [mantle/]: Enabling mod mantle
+[16:38:25] [Server thread/DEBUG] [tconstruct/]: Enabling mod tconstruct
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in TConstruct-1.8.9-2.2.1.jar [en_US]
+[16:38:25] [Server thread/DEBUG] [Thaumcraft/]: Enabling mod Thaumcraft
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in Thaumcraft-1.8.9-5.2.4.jar [ca_ES, de_DE, en_US, es_AR, es_ES, es_MX, es_UY, es_VE, et_EE, fi_FI, fr_FR, it_IT, ja_JP, ko_KR, nl_NL, pt_BR, pt_PT, ru_RU, sv_SE, zh_CN, zh_TW]
+[16:38:25] [Server thread/DEBUG] [Baubles/]: Enabling mod Baubles
+[16:38:25] [Server thread/DEBUG] [FML/]: Found translations in Baubles-1.8.9-1.1.3.0.jar [ar_SA, cs_CZ, da_DK, de_DE, en_US, es_ES, et_EE, fi_FI, fr_CA, fr_FR, it_IT, ko_KR, nl_NL, no_NO, pl_PL, pt_BR, ru_RU, zh_CN, zh_TW]
+[16:38:25] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[16:38:25] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[16:38:25] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[16:38:25] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[16:38:25] [Server thread/DEBUG] [FML/]: Mod sorting data
+[16:38:25] [Server thread/DEBUG] [FML/]: 	IC2(IndustrialCraft 2:2.3.262-ex18): industrialcraft-2-2.3.262-ex18.jar (required-after:Forge@[11.15.1.1757,))
+[16:38:25] [Server thread/DEBUG] [FML/]: 	IronChest(Iron Chest:6.0.125.770): ironchest-1.8.9-6.0.125.770.jar (required-after:Forge@[11.15.0,12.0])
+[16:38:25] [Server thread/DEBUG] [FML/]: 	journeymap(JourneyMap:1.8.9-5.2.4): journeymap-1.8.9-5.2.4-unlimited.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	mantle(Mantle:1.8.9-0.9.2.jenkins102): Mantle-1.8.9-0.9.2.jar (required-after:Forge@[11.15,))
+[16:38:25] [Server thread/DEBUG] [FML/]: 	tconstruct(Tinkers' Construct:1.8.9-2.2.1.jenkins1005): TConstruct-1.8.9-2.2.1.jar (required-after:Forge@[11.15.1.1761,);required-after:mantle@[1.8.9-0.9.0,))
+[16:38:25] [Server thread/DEBUG] [FML/]: 	Baubles(Baubles:1.1.3.0): Baubles-1.8.9-1.1.3.0.jar (required-after:Forge@[11.15.0,);)
+[16:38:25] [Server thread/DEBUG] [FML/]: 	Thaumcraft(Thaumcraft:5.2.4): Thaumcraft-1.8.9-5.2.4.jar (required-after:Forge@[11.15.1.1738,);required-after:Baubles@[1.1.3.0,))
+[16:38:25] [Server thread/DEBUG] [FML/]: 	Baubles|API(API: Baubles|API:1.1.1.0): Baubles-1.8.9-1.1.3.0.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	journeymap|client-api-model(API: journeymap|client-api-model:1.2): journeymap-1.8.9-5.2.4-unlimited.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	journeymap|client-api(API: journeymap|client-api:1.2): journeymap-1.8.9-5.2.4-unlimited.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	journeymap|client-api-display(API: journeymap|client-api-display:1.2): journeymap-1.8.9-5.2.4-unlimited.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	Thaumcraft|API(API: Thaumcraft|API:5.2.3.0): Thaumcraft-1.8.9-5.2.4.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	journeymap|client-api-event(API: journeymap|client-api-event:1.2): journeymap-1.8.9-5.2.4-unlimited.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	journeymap|client-api-util(API: journeymap|client-api-util:1.2): journeymap-1.8.9-5.2.4-unlimited.jar ()
+[16:38:25] [Server thread/DEBUG] [FML/]: 	IC2API(API: IC2API:1.0): industrialcraft-2-2.3.262-ex18.jar ()
+[16:38:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[16:38:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[16:38:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
+[16:38:25] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[16:38:26] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[16:38:26] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[16:38:26] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[16:38:26] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, IC2, IronChest, journeymap, mantle, tconstruct, Thaumcraft, Baubles] at CLIENT
+[16:38:26] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, IC2, IronChest, journeymap, mantle, tconstruct, Thaumcraft, Baubles] at SERVER
+[16:38:27] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[16:38:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 1.911s
+[16:38:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[16:38:27] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[16:38:27] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[16:38:27] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.15.1.1902)
+[16:38:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[16:38:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.013s
+[16:38:27] [Server thread/TRACE] [IC2/IC2]: Sending event FMLConstructionEvent to mod IC2
+[16:38:27] [Server thread/TRACE] [FML/IC2]: Mod IC2 is using network checker : Accepting version 2.3.262-ex18
+[16:38:27] [Server thread/TRACE] [FML/IC2]: Testing mod IC2 to verify it accepts its own version in a remote connection
+[16:38:27] [Server thread/TRACE] [FML/IC2]: The mod IC2 accepts its own version (2.3.262-ex18)
+[16:38:27] [Server thread/DEBUG] [FML/IC2]: Attempting to inject @SidedProxy classes into IC2
+[16:38:27] [Server thread/TRACE] [IC2/IC2]: Sent event FMLConstructionEvent to mod IC2
+[16:38:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - IndustrialCraft 2 took 0.418s
+[16:38:27] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLConstructionEvent to mod IronChest
+[16:38:27] [Server thread/TRACE] [FML/IronChest]: Mod IronChest is using network checker : Accepting version 6.0.125.770
+[16:38:27] [Server thread/TRACE] [FML/IronChest]: Testing mod IronChest to verify it accepts its own version in a remote connection
+[16:38:27] [Server thread/TRACE] [FML/IronChest]: The mod IronChest accepts its own version (6.0.125.770)
+[16:38:27] [Server thread/DEBUG] [FML/IronChest]: Attempting to inject @SidedProxy classes into IronChest
+[16:38:27] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLConstructionEvent to mod IronChest
+[16:38:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Iron Chest took 0.025s
+[16:38:27] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLConstructionEvent to mod journeymap
+[16:38:27] [Server thread/TRACE] [FML/journeymap]: Mod journeymap is using network checker : Invoking method checkModLists
+[16:38:27] [Server thread/TRACE] [FML/journeymap]: Testing mod journeymap to verify it accepts its own version in a remote connection
+[16:38:27] [Server thread/TRACE] [FML/journeymap]: The mod journeymap accepts its own version (1.8.9-5.2.4)
+[16:38:27] [Server thread/DEBUG] [FML/journeymap]: Attempting to inject @SidedProxy classes into journeymap
+[16:38:27] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLConstructionEvent to mod journeymap
+[16:38:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - JourneyMap took 0.030s
+[16:38:27] [Server thread/TRACE] [mantle/mantle]: Sending event FMLConstructionEvent to mod mantle
+[16:38:27] [Server thread/TRACE] [FML/mantle]: Mod mantle is using network checker : Accepting version 1.8.9-0.9.2.jenkins102
+[16:38:27] [Server thread/TRACE] [FML/mantle]: Testing mod mantle to verify it accepts its own version in a remote connection
+[16:38:27] [Server thread/TRACE] [FML/mantle]: The mod mantle accepts its own version (1.8.9-0.9.2.jenkins102)
+[16:38:27] [Server thread/DEBUG] [FML/mantle]: Attempting to inject @SidedProxy classes into mantle
+[16:38:27] [Server thread/TRACE] [mantle/mantle]: Sent event FMLConstructionEvent to mod mantle
+[16:38:27] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Mantle took 0.008s
+[16:38:27] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLConstructionEvent to mod tconstruct
+[16:38:28] [Server thread/DEBUG] [Pulsar-tconstruct/tconstruct]: Attaching [PulseManager[tconstruct]] to event bus for container [FMLMod:tconstruct{1.8.9-2.2.1.jenkins1005}]
+[16:38:30] [Server thread/INFO] [Pulsar-tconstruct/tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[16:38:30] [Server thread/INFO] [Pulsar-tconstruct/tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[16:38:30] [Server thread/INFO] [tconstruct/tconstruct]: Preparing to take over the world
+[16:38:30] [Server thread/TRACE] [FML/tconstruct]: Mod tconstruct is using network checker : Invoking method matchModVersions
+[16:38:30] [Server thread/TRACE] [FML/tconstruct]: Testing mod tconstruct to verify it accepts its own version in a remote connection
+[16:38:30] [Server thread/TRACE] [FML/tconstruct]: The mod tconstruct accepts its own version (1.8.9-2.2.1.jenkins1005)
+[16:38:30] [Server thread/DEBUG] [FML/tconstruct]: Attempting to inject @SidedProxy classes into tconstruct
+[16:38:30] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLConstructionEvent to mod tconstruct
+[16:38:30] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Tinkers' Construct took 2.378s
+[16:38:30] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLConstructionEvent to mod Baubles
+[16:38:30] [Server thread/TRACE] [FML/Baubles]: Mod Baubles is using network checker : Accepting version 1.1.3.0
+[16:38:30] [Server thread/TRACE] [FML/Baubles]: Testing mod Baubles to verify it accepts its own version in a remote connection
+[16:38:30] [Server thread/TRACE] [FML/Baubles]: The mod Baubles accepts its own version (1.1.3.0)
+[16:38:30] [Server thread/DEBUG] [FML/Baubles]: Attempting to inject @SidedProxy classes into Baubles
+[16:38:30] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLConstructionEvent to mod Baubles
+[16:38:30] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Baubles took 0.018s
+[16:38:30] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLConstructionEvent to mod Thaumcraft
+[16:38:30] [Server thread/TRACE] [FML/Thaumcraft]: Mod Thaumcraft is using network checker : Accepting version 5.2.4
+[16:38:30] [Server thread/TRACE] [FML/Thaumcraft]: Testing mod Thaumcraft to verify it accepts its own version in a remote connection
+[16:38:30] [Server thread/TRACE] [FML/Thaumcraft]: The mod Thaumcraft accepts its own version (5.2.4)
+[16:38:30] [Server thread/DEBUG] [FML/Thaumcraft]: Attempting to inject @SidedProxy classes into Thaumcraft
+[16:38:31] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLConstructionEvent to mod Thaumcraft
+[16:38:31] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Thaumcraft took 0.970s
+[16:38:31] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 5.775s
+[16:38:31] [Server thread/DEBUG] [FML/]: Mod signature data
+[16:38:31] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[16:38:31] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.8.9-11.15.1.1902-1.8.9-universal.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	11.15.1.1902)	forge-1.8.9-11.15.1.1902-1.8.9-universal.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		(de041f9f6187debbc77034a344134053277aa3b0) IC2	(IndustrialCraft 2	2.3.262-ex18)	industrialcraft-2-2.3.262-ex18.jar
+[16:38:31] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[16:38:31] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		IronChest	(Iron Chest	6.0.125.770)	ironchest-1.8.9-6.0.125.770.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		journeymap	(JourneyMap	1.8.9-5.2.4)	journeymap-1.8.9-5.2.4-unlimited.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		mantle	(Mantle	1.8.9-0.9.2.jenkins102)	Mantle-1.8.9-0.9.2.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		tconstruct	(Tinkers' Construct	1.8.9-2.2.1.jenkins1005)	TConstruct-1.8.9-2.2.1.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		Baubles	(Baubles	1.1.3.0)	Baubles-1.8.9-1.1.3.0.jar
+[16:38:31] [Server thread/DEBUG] [FML/]: 		Thaumcraft	(Thaumcraft	5.2.4)	Thaumcraft-1.8.9-5.2.4.jar
+[16:38:31] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[16:38:31] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
+[16:38:31] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[16:38:31] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[16:38:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[16:38:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[16:38:31] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[16:38:31] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[16:38:31] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[16:38:31] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.023s
+[16:38:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[16:38:31] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[16:38:31] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:38:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[16:38:31] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.173s
+[16:38:31] [Server thread/TRACE] [IC2/IC2]: Sending event FMLPreInitializationEvent to mod IC2
+[16:38:31] [Server thread/DEBUG] [IC2.General/IC2]: Starting pre-init.
+[16:38:32] [ic2-poolthread-1/DEBUG] [IC2.Resource/IC2]: Translations loaded from file C:\Dev\MysticPack\modserver\mods\industrialcraft-2-2.3.262-ex18.jar.
+[16:38:32] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
+{
+  "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
+  "promos": {
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2254",
+    "1.10.2-recommended": "12.18.3.2185",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.0.2259",
+    "1.11.2-recommended": "13.20.0.2228",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.737",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-latest-1.7.10": "10.13.2.1343",
+    "1.7.10-recommended": "10.13.4.1558",
+    "1.7.2-latest": "10.12.2.1147",
+    "1.7.2-recommended": "10.12.2.1121",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.1902",
+    "1.8.9-recommended": "11.15.1.1722",
+    "1.9-latest": "12.16.0.1942",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2051",
+    "1.9.4-recommended": "12.17.0.1976",
+    "latest": "13.20.0.2259",
+    "latest-1.7.10": "10.13.2.1343",
+    "recommended": "13.20.0.2228"
+  }
+}
+[16:38:32] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Found status: AHEAD Target: null
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity MiningLaser as IC2.MiningLaser
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity Dynamite as IC2.Dynamite
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity Itnt as IC2.Itnt
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity Nuke as IC2.Nuke
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity BoatCarbon as IC2.BoatCarbon
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity BoatRubber as IC2.BoatRubber
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity BoatElectric as IC2.BoatElectric
+[16:38:39] [Server thread/TRACE] [FML/IC2]: Automatically registered mod IC2 entity Particle as IC2.Particle
+[16:38:39] [Server thread/DEBUG] [IC2.General/IC2]: Finished pre-init after 7856 ms.
+[16:38:39] [Server thread/TRACE] [IC2/IC2]: Sent event FMLPreInitializationEvent to mod IC2
+[16:38:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - IndustrialCraft 2 took 7.857s
+[16:38:39] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLPreInitializationEvent to mod IronChest
+[16:38:39] [Server thread/DEBUG] [IronChest/IronChest]: Attempting to load the file version.properties from ironchest-1.8.9-6.0.125.770.jar to locate a version number for IronChest
+[16:38:39] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLPreInitializationEvent to mod IronChest
+[16:38:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Iron Chest took 0.002s
+[16:38:39] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLPreInitializationEvent to mod journeymap
+[16:38:39] [Server thread/ERROR] [journeymap/journeymap]: Did the thing.
+[16:38:39] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLPreInitializationEvent to mod journeymap
+[16:38:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - JourneyMap took 0.174s
+[16:38:39] [Server thread/TRACE] [mantle/mantle]: Sending event FMLPreInitializationEvent to mod mantle
+[16:38:39] [Server thread/TRACE] [mantle/mantle]: Sent event FMLPreInitializationEvent to mod mantle
+[16:38:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Mantle took 0.000s
+[16:38:39] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLPreInitializationEvent to mod tconstruct
+[16:38:40] [Server thread/TRACE] [FML/tconstruct]: Automatically registered mod tconstruct entity blueslime as tconstruct.blueslime
+[16:38:40] [Server thread/DEBUG] [FML/tconstruct]: Registering entity egg 'tconstruct.blueslime' for class slimeknights.tconstruct.world.entity.EntityBlueSlime
+[16:38:40] [Server thread/TRACE] [FML/tconstruct]: Automatically registered mod tconstruct entity Indestructible Item as tconstruct.Indestructible Item
+[16:38:40] [Server thread/TRACE] [FML/tconstruct]: Automatically registered mod tconstruct entity Fancy Item Frame as tconstruct.Fancy Item Frame
+[16:38:40] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLPreInitializationEvent to mod tconstruct
+[16:38:40] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Tinkers' Construct took 1.155s
+[16:38:40] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLPreInitializationEvent to mod Baubles
+[16:38:40] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLPreInitializationEvent to mod Baubles
+[16:38:40] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Baubles took 0.019s
+[16:38:40] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLPreInitializationEvent to mod Thaumcraft
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: ****************************************
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: * Dangerous alternative prefix tconstruct for name molten_brass, invalid registry invocation/invalid name?
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraft.block.Block.setRegistryName(Block.java:2151)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraft.block.Block.setRegistryName(Block.java:2157)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at slimeknights.tconstruct.common.TinkerPulse.registerBlock(TinkerPulse.java:59)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at slimeknights.tconstruct.shared.TinkerFluids.registerMoltenBlock(TinkerFluids.java:303)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at slimeknights.tconstruct.library.MaterialIntegration.registerFluidBlock(MaterialIntegration.java:119)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at slimeknights.tconstruct.library.MaterialIntegration.integrate(MaterialIntegration.java:82)...
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: ****************************************
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: ****************************************
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: * Dangerous alternative prefix thaumcraft for name molten_brass, invalid registry invocation/invalid name?
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameData.addPrefix(GameData.java:159)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameData.registerBlock(GameData.java:125)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:276)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:226)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:203)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at slimeknights.tconstruct.common.TinkerPulse.registerBlock(TinkerPulse.java:60)...
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: ****************************************
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: ****************************************
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: * Dangerous alternative prefix thaumcraft for name molten_brass, invalid registry invocation/invalid name?
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameData.addPrefix(GameData.java:159)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameData.registerItem(GameData.java:120)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:279)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:226)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at net.minecraftforge.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:203)
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: *  at slimeknights.tconstruct.common.TinkerPulse.registerBlock(TinkerPulse.java:60)...
+[16:38:44] [Server thread/WARN] [FML/Thaumcraft]: ****************************************
+[16:38:44] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLPreInitializationEvent to mod Thaumcraft
+[16:38:44] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Thaumcraft took 4.085s
+[16:38:44] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 13.490s
+[16:38:44] [Server thread/INFO] [FML/]: Applying holder lookups
+[16:38:44] [Server thread/INFO] [FML/]: Holder lookups applied
+[16:38:44] [Server thread/INFO] [FML/]: Injecting itemstacks
+[16:38:44] [Server thread/INFO] [FML/]: Itemstack injection complete
+[16:38:45] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[16:38:45] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[16:38:45] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
+[16:38:45] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[16:38:45] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[16:38:45] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[16:38:45] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[16:38:45] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[16:38:45] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.001s
+[16:38:45] [Server thread/TRACE] [IC2/IC2]: Sending event FMLInitializationEvent to mod IC2
+[16:38:45] [Server thread/DEBUG] [IC2.General/IC2]: Starting init.
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 310 out of 310 recipes for shaped recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 71 out of 71 recipes for shapeless recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 17 out of 17 recipes for block cutter recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 47 out of 47 recipes for compressor recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 11 out of 11 recipes for extractor recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 64 out of 64 recipes for macerator recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 4 out of 4 recipes for metal former cutting recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[16:38:46] [Server thread/INFO] [IC2.Recipe/IC2]: Successfully loaded 25 out of 25 recipes for thermal centrifuge recipes
+[16:38:46] [Server thread/DEBUG] [IC2.Recipe/IC2]: 0 recipes failed to load in the first pass.
+[16:38:47] [Server thread/DEBUG] [IC2.General/IC2]: Finished init after 1664 ms.
+[16:38:47] [Server thread/TRACE] [IC2/IC2]: Sent event FMLInitializationEvent to mod IC2
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - IndustrialCraft 2 took 1.666s
+[16:38:47] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLInitializationEvent to mod IronChest
+[16:38:47] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLInitializationEvent to mod IronChest
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Iron Chest took 0.028s
+[16:38:47] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLInitializationEvent to mod journeymap
+[16:38:47] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLInitializationEvent to mod journeymap
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - JourneyMap took 0.010s
+[16:38:47] [Server thread/TRACE] [mantle/mantle]: Sending event FMLInitializationEvent to mod mantle
+[16:38:47] [Server thread/TRACE] [mantle/mantle]: Sent event FMLInitializationEvent to mod mantle
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Mantle took 0.000s
+[16:38:47] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLInitializationEvent to mod tconstruct
+[16:38:47] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLInitializationEvent to mod tconstruct
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Tinkers' Construct took 0.026s
+[16:38:47] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLInitializationEvent to mod Baubles
+[16:38:47] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLInitializationEvent to mod Baubles
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Baubles took 0.000s
+[16:38:47] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLInitializationEvent to mod Thaumcraft
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity AuraNode as Thaumcraft.AuraNode
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintCloud as Thaumcraft.TaintCloud
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintLightning as Thaumcraft.TaintLightning
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity CultistPortalGreater as Thaumcraft.CultistPortalGreater
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.CultistPortalGreater' for class thaumcraft.common.entities.monster.boss.EntityCultistPortalGreater
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity CultistPortalLesser as Thaumcraft.CultistPortalLesser
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.CultistPortalLesser' for class thaumcraft.common.entities.monster.cult.EntityCultistPortalLesser
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity SpecialItem as Thaumcraft.SpecialItem
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity PermanentItem as Thaumcraft.PermanentItem
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity FollowItem as Thaumcraft.FollowItem
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity FallingTaint as Thaumcraft.FallingTaint
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Alumentum as Thaumcraft.Alumentum
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity PrimalOrb as Thaumcraft.PrimalOrb
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity FrostShard as Thaumcraft.FrostShard
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity PrimalArrow as Thaumcraft.PrimalArrow
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity GolemDart as Thaumcraft.GolemDart
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity PechBlast as Thaumcraft.PechBlast
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity EldritchOrb as Thaumcraft.EldritchOrb
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity BottleTaint as Thaumcraft.BottleTaint
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity GolemOrb as Thaumcraft.GolemOrb
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity HomingShard as Thaumcraft.HomingShard
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity ShockOrb as Thaumcraft.ShockOrb
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity ExplosiveOrb as Thaumcraft.ExplosiveOrb
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Ember as Thaumcraft.Ember
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Grapple as Thaumcraft.Grapple
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TurretFocus as Thaumcraft.TurretFocus
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TurretBasic as Thaumcraft.TurretBasic
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TurretAdvanced as Thaumcraft.TurretAdvanced
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TurretEldritch as Thaumcraft.TurretEldritch
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity NodeMagnet as Thaumcraft.NodeMagnet
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Golem as Thaumcraft.Golem
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity EldritchWarden as Thaumcraft.EldritchWarden
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.EldritchWarden' for class thaumcraft.common.entities.monster.boss.EntityEldritchWarden
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity EldritchGolem as Thaumcraft.EldritchGolem
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.EldritchGolem' for class thaumcraft.common.entities.monster.boss.EntityEldritchGolem
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity CultistLeader as Thaumcraft.CultistLeader
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.CultistLeader' for class thaumcraft.common.entities.monster.boss.EntityCultistLeader
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintacleGiant as Thaumcraft.TaintacleGiant
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintacleGiant' for class thaumcraft.common.entities.monster.boss.EntityTaintacleGiant
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity BrainyZombie as Thaumcraft.BrainyZombie
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.BrainyZombie' for class thaumcraft.common.entities.monster.EntityBrainyZombie
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity GiantBrainyZombie as Thaumcraft.GiantBrainyZombie
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.GiantBrainyZombie' for class thaumcraft.common.entities.monster.EntityGiantBrainyZombie
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Wisp as Thaumcraft.Wisp
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.Wisp' for class thaumcraft.common.entities.monster.EntityWisp
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Firebat as Thaumcraft.Firebat
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.Firebat' for class thaumcraft.common.entities.monster.EntityFireBat
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Pech as Thaumcraft.Pech
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.Pech' for class thaumcraft.common.entities.monster.EntityPech
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity MindSpider as Thaumcraft.MindSpider
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.MindSpider' for class thaumcraft.common.entities.monster.EntityMindSpider
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity EldritchGuardian as Thaumcraft.EldritchGuardian
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.EldritchGuardian' for class thaumcraft.common.entities.monster.EntityEldritchGuardian
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity CultistKnight as Thaumcraft.CultistKnight
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.CultistKnight' for class thaumcraft.common.entities.monster.cult.EntityCultistKnight
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity CultistCleric as Thaumcraft.CultistCleric
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.CultistCleric' for class thaumcraft.common.entities.monster.cult.EntityCultistCleric
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity EldritchCrab as Thaumcraft.EldritchCrab
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.EldritchCrab' for class thaumcraft.common.entities.monster.EntityEldritchCrab
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity InhabitedZombie as Thaumcraft.InhabitedZombie
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.InhabitedZombie' for class thaumcraft.common.entities.monster.EntityInhabitedZombie
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity ThaumSlime as Thaumcraft.ThaumSlime
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.ThaumSlime' for class thaumcraft.common.entities.monster.EntityThaumicSlime
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintCrawler as Thaumcraft.TaintCrawler
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintCrawler' for class thaumcraft.common.entities.monster.tainted.EntityTaintCrawler
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity Taintacle as Thaumcraft.Taintacle
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.Taintacle' for class thaumcraft.common.entities.monster.tainted.EntityTaintacle
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintacleTiny as Thaumcraft.TaintacleTiny
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintSwarm as Thaumcraft.TaintSwarm
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintSwarm' for class thaumcraft.common.entities.monster.tainted.EntityTaintSwarm
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintedChicken as Thaumcraft.TaintedChicken
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintedChicken' for class thaumcraft.common.entities.monster.tainted.EntityTaintChicken
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintedRabbit as Thaumcraft.TaintedRabbit
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintedRabbit' for class thaumcraft.common.entities.monster.tainted.EntityTaintRabbit
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintedCow as Thaumcraft.TaintedCow
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintedCow' for class thaumcraft.common.entities.monster.tainted.EntityTaintCow
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintedCreeper as Thaumcraft.TaintedCreeper
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintedCreeper' for class thaumcraft.common.entities.monster.tainted.EntityTaintCreeper
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintedPig as Thaumcraft.TaintedPig
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintedPig' for class thaumcraft.common.entities.monster.tainted.EntityTaintPig
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintedSheep as Thaumcraft.TaintedSheep
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintedSheep' for class thaumcraft.common.entities.monster.tainted.EntityTaintSheep
+[16:38:47] [Server thread/TRACE] [FML/Thaumcraft]: Automatically registered mod Thaumcraft entity TaintedVillager as Thaumcraft.TaintedVillager
+[16:38:47] [Server thread/DEBUG] [FML/Thaumcraft]: Registering entity egg 'Thaumcraft.TaintedVillager' for class thaumcraft.common.entities.monster.tainted.EntityTaintVillager
+[16:38:47] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLInitializationEvent to mod Thaumcraft
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Thaumcraft took 0.052s
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 1.784s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[16:38:47] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[16:38:47] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.004s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[16:38:47] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[16:38:47] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[16:38:47] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[16:38:47] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod IC2
+[16:38:47] [Server thread/TRACE] [IC2/IC2]: Sending event IMCEvent to mod IC2
+[16:38:47] [Server thread/TRACE] [IC2/IC2]: Sent event IMCEvent to mod IC2
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - IndustrialCraft 2 took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod IronChest
+[16:38:47] [Server thread/TRACE] [IronChest/IronChest]: Sending event IMCEvent to mod IronChest
+[16:38:47] [Server thread/TRACE] [IronChest/IronChest]: Sent event IMCEvent to mod IronChest
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Iron Chest took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod journeymap
+[16:38:47] [Server thread/TRACE] [journeymap/journeymap]: Sending event IMCEvent to mod journeymap
+[16:38:47] [Server thread/TRACE] [journeymap/journeymap]: Sent event IMCEvent to mod journeymap
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - JourneyMap took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mantle
+[16:38:47] [Server thread/TRACE] [mantle/mantle]: Sending event IMCEvent to mod mantle
+[16:38:47] [Server thread/TRACE] [mantle/mantle]: Sent event IMCEvent to mod mantle
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Mantle took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod tconstruct
+[16:38:47] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event IMCEvent to mod tconstruct
+[16:38:47] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event IMCEvent to mod tconstruct
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Tinkers' Construct took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Baubles
+[16:38:47] [Server thread/TRACE] [Baubles/Baubles]: Sending event IMCEvent to mod Baubles
+[16:38:47] [Server thread/TRACE] [Baubles/Baubles]: Sent event IMCEvent to mod Baubles
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Baubles took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Thaumcraft
+[16:38:47] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event IMCEvent to mod Thaumcraft
+[16:38:47] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event IMCEvent to mod Thaumcraft
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Thaumcraft took 0.000s
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.007s
+[16:38:47] [Server thread/INFO] [FML/]: Injecting itemstacks
+[16:38:47] [Server thread/INFO] [FML/]: Itemstack injection complete
+[16:38:47] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[16:38:47] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[16:38:47] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[16:38:47] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[16:38:47] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[16:38:47] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[16:38:47] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.002s
+[16:38:47] [Server thread/TRACE] [IC2/IC2]: Sending event FMLPostInitializationEvent to mod IC2
+[16:38:47] [Server thread/DEBUG] [IC2.General/IC2]: Starting post-init.
+[16:38:47] [Server thread/DEBUG] [IC2.SubModule/IC2]: Loading IC2 submodule: bcIntegration.
+[16:38:47] [Server thread/DEBUG] [IC2.SubModule/IC2]: Submodule bcIntegration not loaded.
+[16:38:47] [Server thread/INFO] [IC2.Uu/IC2]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:blockRubWood, ignoring the entry in line 58.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:blockRubSapling, ignoring the entry in line 73.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:itemHarz, ignoring the entry in line 79.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for BuildCraft|Core:eternalSpring, ignoring the entry in line 88.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:itemIngot, ignoring the entry in line 98.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:itemIngot@1, ignoring the entry in line 99.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for BuildCraft|Core:eternalSpring@1, ignoring the entry in line 109.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:itemToolBronzeSword, ignoring the entry in line 130.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:itemArmorBronzeChestplate, ignoring the entry in line 131.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU world-scan config: Can't find ItemStack for IC2:itemToolBronzePickaxe, ignoring the entry in line 134.
+[16:38:48] [Server thread/WARN] [IC2.Uu/IC2]: UU predefined config: Can't find ItemStack for IC2:itemOreIridium, ignoring the entry in line 145.
+[16:38:48] [Server thread/DEBUG] [IC2.Uu/IC2]: 1212 UU recipe transformations fetched after 61 ms.
+[16:38:48] [Server thread/DEBUG] [IC2.General/IC2]: Finished post-init after 1082 ms.
+[16:38:48] [Server thread/INFO] [IC2.General/IC2]: IC2 version 2.3.262-ex18 loaded.
+[16:38:48] [Server thread/TRACE] [IC2/IC2]: Sent event FMLPostInitializationEvent to mod IC2
+[16:38:48] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - IndustrialCraft 2 took 1.084s
+[16:38:48] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLPostInitializationEvent to mod IronChest
+[16:38:48] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLPostInitializationEvent to mod IronChest
+[16:38:48] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Iron Chest took 0.001s
+[16:38:48] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLPostInitializationEvent to mod journeymap
+[16:38:48] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLPostInitializationEvent to mod journeymap
+[16:38:48] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - JourneyMap took 0.001s
+[16:38:48] [Server thread/TRACE] [mantle/mantle]: Sending event FMLPostInitializationEvent to mod mantle
+[16:38:48] [Server thread/TRACE] [mantle/mantle]: Sent event FMLPostInitializationEvent to mod mantle
+[16:38:48] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Mantle took 0.001s
+[16:38:48] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLPostInitializationEvent to mod tconstruct
+[16:38:48] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.chestplateIron@0 (1152 iron)
+[16:38:48] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.leggingsIron@0 (1008 iron)
+[16:38:48] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.chestplateGold@0 (1152 gold)
+[16:38:48] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.leggingsGold@0 (1008 gold)
+[16:38:48] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.cauldron@0 (1008 iron)
+[16:38:48] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 16xtile.fenceIron@0 (54 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.helmetIron@0 (720 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.bootsIron@0 (576 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.helmetGold@0 (720 gold)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.bootsGold@0 (576 gold)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 3xitem.doorIron@0 (288 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.minecart@0 (720 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.bucket@0 (432 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xitem.shears@0 (288 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xtile.ironTrapdoor@0 (576 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xtile.weightedPlate_heavy@0 (288 iron)
+[16:38:49] [Server thread/TRACE] [tconstruct-TinkerSmeltery/tconstruct]: Added automatic melting recipe for 1xtile.weightedPlate_light@0 (288 gold)
+[16:38:49] [ic2-poolthread-2/DEBUG] [IC2.Uu/IC2]: UU graph built with 989 nodes after 290 ms.
+[16:38:49] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLPostInitializationEvent to mod tconstruct
+[16:38:49] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Tinkers' Construct took 0.291s
+[16:38:49] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLPostInitializationEvent to mod Baubles
+[16:38:49] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLPostInitializationEvent to mod Baubles
+[16:38:49] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Baubles took 0.000s
+[16:38:49] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLPostInitializationEvent to mod Thaumcraft
+[16:38:49] [Server thread/INFO] [THAUMCRAFT/Thaumcraft]: Adding entities to MFR safari net blacklist.
+[16:38:51] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLPostInitializationEvent to mod Thaumcraft
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumcraft took 2.062s
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 3.442s
+[16:38:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[16:38:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[16:38:51] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[16:38:51] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[16:38:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[16:38:51] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   27: RecipeEntry("Before", UNKNOWN, )
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   26: RecipeEntry("tconstruct:table", SHAPED, slimeknights.tconstruct.tools.TableRecipe) Before: minecraft:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   25: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   24: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   23: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   22: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   21: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   20: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   19: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   18: RecipeEntry("forge:shapelessorenbt", SHAPELESS, thaumcraft.common.lib.crafting.ShapelessNBTOreRecipe) After: forge:shapelessore
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   17: RecipeEntry("forge:robearmordye", SHAPELESS, thaumcraft.common.lib.crafting.RecipesRobeArmorDyes) After: forge:shapelessorenbt
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   16: RecipeEntry("forge:arcanewand", SHAPED, thaumcraft.common.lib.crafting.ArcaneWandRecipe) After: minecraft:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   15: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("forge:arcanerecipe", SHAPED, thaumcraft.api.crafting.ShapedArcaneRecipe) After: minecraft:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("ic2:shaped", SHAPED, ic2.core.recipe.AdvRecipe) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("ic2:shapeless", SHAPELESS, ic2.core.recipe.AdvShapelessRecipe) After: ic2:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("forge:voidrobearmordye", SHAPELESS, thaumcraft.common.lib.crafting.RecipesVoidRobeArmorDyes) After: forge:robearmordye
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("forge:arcanesceptre", SHAPED, thaumcraft.common.lib.crafting.ArcaneSceptreRecipe) After: minecraft:shaped
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("ic2:QSuitDying", SHAPELESS, ic2.core.recipe.RecipeQArmorDye) After: ic2:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("forge:triplemeattreat", SHAPELESS, thaumcraft.common.lib.crafting.RecipeTripleMeatTreat) After: forge:voidrobearmordye
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("forge:shapelessarcanerecipe", SHAPELESS, thaumcraft.api.crafting.ShapelessArcaneRecipe) After: forge:shapelessorenbt
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("ic2:gradual", SHAPELESS, ic2.core.recipe.GradualRecipe) After: ic2:shapeless
+[16:38:51] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[16:38:51] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[16:38:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.010s
+[16:38:51] [Server thread/TRACE] [IC2/IC2]: Sending event FMLLoadCompleteEvent to mod IC2
+[16:38:51] [Server thread/TRACE] [IC2/IC2]: Sent event FMLLoadCompleteEvent to mod IC2
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - IndustrialCraft 2 took 0.000s
+[16:38:51] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLLoadCompleteEvent to mod IronChest
+[16:38:51] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLLoadCompleteEvent to mod IronChest
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Iron Chest took 0.001s
+[16:38:51] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLLoadCompleteEvent to mod journeymap
+[16:38:51] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLLoadCompleteEvent to mod journeymap
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - JourneyMap took 0.001s
+[16:38:51] [Server thread/TRACE] [mantle/mantle]: Sending event FMLLoadCompleteEvent to mod mantle
+[16:38:51] [Server thread/TRACE] [mantle/mantle]: Sent event FMLLoadCompleteEvent to mod mantle
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Mantle took 0.000s
+[16:38:51] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLLoadCompleteEvent to mod tconstruct
+[16:38:51] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLLoadCompleteEvent to mod tconstruct
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Tinkers' Construct took 0.001s
+[16:38:51] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLLoadCompleteEvent to mod Baubles
+[16:38:51] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLLoadCompleteEvent to mod Baubles
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Baubles took 0.000s
+[16:38:51] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLLoadCompleteEvent to mod Thaumcraft
+[16:38:51] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLLoadCompleteEvent to mod Thaumcraft
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Thaumcraft took 0.000s
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.014s
+[16:38:51] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[16:38:51] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 10 mods
+[16:38:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[16:38:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[16:38:51] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[16:38:51] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[16:38:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[16:38:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[16:38:51] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerAboutToStartEvent to mod IC2
+[16:38:51] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerAboutToStartEvent to mod IC2
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - IndustrialCraft 2 took 0.000s
+[16:38:51] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerAboutToStartEvent to mod IronChest
+[16:38:51] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerAboutToStartEvent to mod IronChest
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Iron Chest took 0.001s
+[16:38:51] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLServerAboutToStartEvent to mod journeymap
+[16:38:51] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLServerAboutToStartEvent to mod journeymap
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - JourneyMap took 0.000s
+[16:38:51] [Server thread/TRACE] [mantle/mantle]: Sending event FMLServerAboutToStartEvent to mod mantle
+[16:38:51] [Server thread/TRACE] [mantle/mantle]: Sent event FMLServerAboutToStartEvent to mod mantle
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Mantle took 0.001s
+[16:38:51] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLServerAboutToStartEvent to mod tconstruct
+[16:38:51] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLServerAboutToStartEvent to mod tconstruct
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Tinkers' Construct took 0.002s
+[16:38:51] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLServerAboutToStartEvent to mod Baubles
+[16:38:51] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLServerAboutToStartEvent to mod Baubles
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Baubles took 0.001s
+[16:38:51] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLServerAboutToStartEvent to mod Thaumcraft
+[16:38:51] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLServerAboutToStartEvent to mod Thaumcraft
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Thaumcraft took 0.000s
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.007s
+[16:38:51] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[16:38:51] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[16:38:51] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[16:38:51] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[16:38:51] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[16:38:51] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[16:38:51] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[16:38:51] [Server thread/TRACE] [IC2/IC2]: Sending event FMLModIdMappingEvent to mod IC2
+[16:38:51] [Server thread/TRACE] [IC2/IC2]: Sent event FMLModIdMappingEvent to mod IC2
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - IndustrialCraft 2 took 0.000s
+[16:38:51] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLModIdMappingEvent to mod IronChest
+[16:38:51] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLModIdMappingEvent to mod IronChest
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Iron Chest took 0.000s
+[16:38:51] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLModIdMappingEvent to mod journeymap
+[16:38:51] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLModIdMappingEvent to mod journeymap
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - JourneyMap took 0.000s
+[16:38:51] [Server thread/TRACE] [mantle/mantle]: Sending event FMLModIdMappingEvent to mod mantle
+[16:38:51] [Server thread/TRACE] [mantle/mantle]: Sent event FMLModIdMappingEvent to mod mantle
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Mantle took 0.000s
+[16:38:51] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLModIdMappingEvent to mod tconstruct
+[16:38:51] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLModIdMappingEvent to mod tconstruct
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Tinkers' Construct took 0.000s
+[16:38:51] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLModIdMappingEvent to mod Baubles
+[16:38:51] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLModIdMappingEvent to mod Baubles
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Baubles took 0.000s
+[16:38:51] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLModIdMappingEvent to mod Thaumcraft
+[16:38:51] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLModIdMappingEvent to mod Thaumcraft
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Thaumcraft took 0.000s
+[16:38:51] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.004s
+[16:38:51] [Server thread/INFO] [FML/]: Applying holder lookups
+[16:38:51] [Server thread/INFO] [FML/]: Holder lookups applied
+[16:38:51] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:blueslime has been selected as the default fluid for blueslime
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2steam has been selected as the default fluid for ic2steam
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:lead has been selected as the default fluid for lead
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:steel has been selected as the default fluid for steel
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2superheated_steam has been selected as the default fluid for ic2superheated_steam
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid Thaumcraft:purifying_fluid has been selected as the default fluid for purifying_fluid
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid Thaumcraft:flux_goo has been selected as the default fluid for flux_goo
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:milk has been selected as the default fluid for milk
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:gold has been selected as the default fluid for gold
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:clay has been selected as the default fluid for clay
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid Thaumcraft:brass has been selected as the default fluid for brass
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2oxygen has been selected as the default fluid for ic2oxygen
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2uu_matter has been selected as the default fluid for ic2uu_matter
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:purpleslime has been selected as the default fluid for purpleslime
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2coolant has been selected as the default fluid for ic2coolant
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:knightslime has been selected as the default fluid for knightslime
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2pahoehoe_lava has been selected as the default fluid for ic2pahoehoe_lava
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:pigiron has been selected as the default fluid for pigiron
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:cobalt has been selected as the default fluid for cobalt
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2air has been selected as the default fluid for ic2air
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:bronze has been selected as the default fluid for bronze
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:iron has been selected as the default fluid for iron
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:ardite has been selected as the default fluid for ardite
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2hydrogen has been selected as the default fluid for ic2hydrogen
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:tin has been selected as the default fluid for tin
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:blood has been selected as the default fluid for blood
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:dirt has been selected as the default fluid for dirt
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2construction_foam has been selected as the default fluid for ic2construction_foam
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2hot_water has been selected as the default fluid for ic2hot_water
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid Thaumcraft:taint_dust has been selected as the default fluid for taint_dust
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:copper has been selected as the default fluid for copper
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:obsidian has been selected as the default fluid for obsidian
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:silver has been selected as the default fluid for silver
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:stone has been selected as the default fluid for stone
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2heavy_water has been selected as the default fluid for ic2heavy_water
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2distilled_water has been selected as the default fluid for ic2distilled_water
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2weed_ex has been selected as the default fluid for ic2weed_ex
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:emerald has been selected as the default fluid for emerald
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid Thaumcraft:liquid_death has been selected as the default fluid for liquid_death
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2biogas has been selected as the default fluid for ic2biogas
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid tconstruct:manyullyn has been selected as the default fluid for manyullyn
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2hot_coolant has been selected as the default fluid for ic2hot_coolant
+[16:38:51] [Server thread/DEBUG] [FML/]: The fluid IC2:ic2biomass has been selected as the default fluid for ic2biomass
+[16:38:51] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@74dee7fa)
+[16:38:52] [Server thread/INFO] [FML/]: Loading dimension -42 (world) (net.minecraft.server.dedicated.DedicatedServer@74dee7fa)
+[16:38:52] [Server thread/INFO] [THAUMCRAFT/]: Creating aura cache for world -42
+[16:38:52] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@74dee7fa)
+[16:38:52] [Server thread/INFO] [THAUMCRAFT/]: Creating aura cache for world 1
+[16:38:52] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@74dee7fa)
+[16:38:52] [Server thread/INFO] [THAUMCRAFT/]: Creating aura cache for world -1
+[16:38:52] [Server thread/INFO] [THAUMCRAFT/]: Creating aura cache for world 0
+[16:38:56] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[16:38:56] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.001s
+[16:38:56] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[16:38:56] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[16:38:56] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[16:38:56] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.007s
+[16:38:56] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStartingEvent to mod IC2
+[16:38:56] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStartingEvent to mod IC2
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - IndustrialCraft 2 took 0.021s
+[16:38:56] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStartingEvent to mod IronChest
+[16:38:56] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStartingEvent to mod IronChest
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Iron Chest took 0.001s
+[16:38:56] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLServerStartingEvent to mod journeymap
+[16:38:56] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLServerStartingEvent to mod journeymap
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - JourneyMap took 0.007s
+[16:38:56] [Server thread/TRACE] [mantle/mantle]: Sending event FMLServerStartingEvent to mod mantle
+[16:38:56] [Server thread/TRACE] [mantle/mantle]: Sent event FMLServerStartingEvent to mod mantle
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Mantle took 0.000s
+[16:38:56] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLServerStartingEvent to mod tconstruct
+[16:38:56] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLServerStartingEvent to mod tconstruct
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Tinkers' Construct took 0.000s
+[16:38:56] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLServerStartingEvent to mod Baubles
+[16:38:56] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLServerStartingEvent to mod Baubles
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Baubles took 0.000s
+[16:38:56] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLServerStartingEvent to mod Thaumcraft
+[16:38:56] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLServerStartingEvent to mod Thaumcraft
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Thaumcraft took 0.004s
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.042s
+[16:38:56] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[16:38:56] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[16:38:56] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[16:38:56] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[16:38:56] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[16:38:56] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[16:38:56] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStartedEvent to mod IC2
+[16:38:56] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStartedEvent to mod IC2
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - IndustrialCraft 2 took 0.000s
+[16:38:56] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStartedEvent to mod IronChest
+[16:38:56] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStartedEvent to mod IronChest
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Iron Chest took 0.000s
+[16:38:56] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLServerStartedEvent to mod journeymap
+[16:38:56] [Server thread/INFO] [journeymap/journeymap]: World ID: a030676b-5223-434c-b9b7-28de7a93e37a
+[16:38:56] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLServerStartedEvent to mod journeymap
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - JourneyMap took 0.011s
+[16:38:56] [Server thread/TRACE] [mantle/mantle]: Sending event FMLServerStartedEvent to mod mantle
+[16:38:56] [Server thread/TRACE] [mantle/mantle]: Sent event FMLServerStartedEvent to mod mantle
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Mantle took 0.004s
+[16:38:56] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLServerStartedEvent to mod tconstruct
+[16:38:56] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLServerStartedEvent to mod tconstruct
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Tinkers' Construct took 0.001s
+[16:38:56] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLServerStartedEvent to mod Baubles
+[16:38:56] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLServerStartedEvent to mod Baubles
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Baubles took 0.002s
+[16:38:56] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLServerStartedEvent to mod Thaumcraft
+[16:38:56] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLServerStartedEvent to mod Thaumcraft
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Thaumcraft took 0.001s
+[16:38:56] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.020s
+[16:38:56] [Thread-9/INFO] [THAUMCRAFT/]: Starting aura thread
+[16:39:03] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 169 ms LONGER THAN NORMAL
+[16:39:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:40:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:40:51] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 272 ms LONGER THAN NORMAL
+[16:40:56] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 196 ms LONGER THAN NORMAL
+[16:41:01] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 310 ms LONGER THAN NORMAL
+[16:41:04] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 15 ms LONGER THAN NORMAL
+[16:41:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:41:16] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 203 ms LONGER THAN NORMAL
+[16:41:18] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 607 ms LONGER THAN NORMAL
+[16:41:52] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 170 ms LONGER THAN NORMAL
+[16:41:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:42:10] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 233 ms LONGER THAN NORMAL
+[16:42:20] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 195 ms LONGER THAN NORMAL
+[16:42:23] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 96 ms LONGER THAN NORMAL
+[16:42:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:43:07] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 282 ms LONGER THAN NORMAL
+[16:43:09] [Netty Server IO #1/TRACE] [FML/]: Handshake channel activating
+[16:43:09] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:43:10] [Netty Server IO #1/INFO] [FML/]: Client protocol version 2
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:10 mods->FMLHandshakeServerState$2:HELLO
+[16:43:10] [Netty Server IO #1/INFO] [FML/]: Client attempting to join with 10 mods : tconstruct@1.8.9-2.2.1.jenkins1005,Thaumcraft@5.2.4,FML@8.0.99.99,Forge@11.15.1.1902,IC2@2.3.262-ex18,mantle@1.8.9-0.9.2.jenkins102,IronChest@6.0.125.770,mcp@9.19,journeymap@1.8.9-5.2.4,Baubles@1.1.3.0
+[16:43:10] [Netty Server IO #1/INFO] [journeymap/]: CLIENT
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]:   Next: WAITINGCACK
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]:   Next: COMPLETE
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:43:10] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
+[16:43:10] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[16:43:10] [Server thread/WARN] [Baubles/]: Data not found for FriskyBetta. Trying to load backup data.
+[16:43:10] [Server thread/WARN] [THAUMCRAFT/]: Thaumcraft data not found for FriskyBetta. Trying to load backup Thaumcraft data.
+[16:43:11] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 380 ms LONGER THAN NORMAL
+[16:43:16] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 855 ms LONGER THAN NORMAL
+[16:43:36] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 266 ms LONGER THAN NORMAL
+[16:43:39] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 129 ms LONGER THAN NORMAL
+[16:43:43] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 235 ms LONGER THAN NORMAL
+[16:43:59] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 106 ms LONGER THAN NORMAL
+[16:44:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:44:09] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 97 ms LONGER THAN NORMAL
+[16:44:24] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 330 ms LONGER THAN NORMAL
+[16:44:28] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 27 ms LONGER THAN NORMAL
+[16:44:31] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 17 ms LONGER THAN NORMAL
+[16:44:34] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 203 ms LONGER THAN NORMAL
+[16:44:45] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 68 ms LONGER THAN NORMAL
+[16:44:48] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 1516 ms LONGER THAN NORMAL
+[16:44:58] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 93 ms LONGER THAN NORMAL
+[16:45:05] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 133 ms LONGER THAN NORMAL
+[16:45:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:45:07] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 163 ms LONGER THAN NORMAL
+[16:45:10] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 6 ms LONGER THAN NORMAL
+[16:45:11] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 37 ms LONGER THAN NORMAL
+[16:45:15] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 75 ms LONGER THAN NORMAL
+[16:45:27] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 135 ms LONGER THAN NORMAL
+[16:45:31] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 40 ms LONGER THAN NORMAL
+[16:45:35] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 105 ms LONGER THAN NORMAL
+[16:45:38] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 16 ms LONGER THAN NORMAL
+[16:45:40] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 112 ms LONGER THAN NORMAL
+[16:45:51] [Thread-9/WARN] [THAUMCRAFT/]: AURAS TAKING 56 ms LONGER THAN NORMAL
+[16:45:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:46:06] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[16:46:06] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.001s
+[16:46:06] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[16:46:06] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.001s
+[16:46:06] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[16:46:06] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.001s
+[16:46:06] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStoppingEvent to mod IC2
+[16:46:06] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStoppingEvent to mod IC2
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - IndustrialCraft 2 took 0.000s
+[16:46:06] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStoppingEvent to mod IronChest
+[16:46:06] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStoppingEvent to mod IronChest
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Iron Chest took 0.000s
+[16:46:06] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLServerStoppingEvent to mod journeymap
+[16:46:06] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLServerStoppingEvent to mod journeymap
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - JourneyMap took 0.000s
+[16:46:06] [Server thread/TRACE] [mantle/mantle]: Sending event FMLServerStoppingEvent to mod mantle
+[16:46:06] [Server thread/TRACE] [mantle/mantle]: Sent event FMLServerStoppingEvent to mod mantle
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Mantle took 0.000s
+[16:46:06] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLServerStoppingEvent to mod tconstruct
+[16:46:06] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLServerStoppingEvent to mod tconstruct
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Tinkers' Construct took 0.000s
+[16:46:06] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLServerStoppingEvent to mod Baubles
+[16:46:06] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLServerStoppingEvent to mod Baubles
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Baubles took 0.000s
+[16:46:06] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLServerStoppingEvent to mod Thaumcraft
+[16:46:06] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLServerStoppingEvent to mod Thaumcraft
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Thaumcraft took 0.000s
+[16:46:06] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.005s
+[16:46:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[16:46:07] [Server thread/INFO] [THAUMCRAFT/]: Removing aura cache for world 0
+[16:46:08] [Server thread/INFO] [THAUMCRAFT/]: Removing aura cache for world -1
+[16:46:08] [Server thread/INFO] [THAUMCRAFT/]: Removing aura cache for world 1
+[16:46:08] [Server thread/INFO] [THAUMCRAFT/]: Removing aura cache for world -42
+[16:46:08] [Server thread/INFO] [FML/]: Unloading dimension 0
+[16:46:08] [Server thread/INFO] [FML/]: Unloading dimension -1
+[16:46:08] [Server thread/INFO] [FML/]: Unloading dimension 1
+[16:46:08] [Server thread/INFO] [FML/]: Unloading dimension -42
+[16:46:08] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[16:46:08] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[16:46:08] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[16:46:08] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[16:46:08] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[16:46:08] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[16:46:08] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[16:46:08] [Server thread/TRACE] [IC2/IC2]: Sending event FMLModIdMappingEvent to mod IC2
+[16:46:08] [Server thread/TRACE] [IC2/IC2]: Sent event FMLModIdMappingEvent to mod IC2
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - IndustrialCraft 2 took 0.000s
+[16:46:08] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLModIdMappingEvent to mod IronChest
+[16:46:08] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLModIdMappingEvent to mod IronChest
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Iron Chest took 0.000s
+[16:46:08] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLModIdMappingEvent to mod journeymap
+[16:46:08] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLModIdMappingEvent to mod journeymap
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - JourneyMap took 0.000s
+[16:46:08] [Server thread/TRACE] [mantle/mantle]: Sending event FMLModIdMappingEvent to mod mantle
+[16:46:08] [Server thread/TRACE] [mantle/mantle]: Sent event FMLModIdMappingEvent to mod mantle
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Mantle took 0.000s
+[16:46:08] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLModIdMappingEvent to mod tconstruct
+[16:46:08] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLModIdMappingEvent to mod tconstruct
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Tinkers' Construct took 0.001s
+[16:46:08] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLModIdMappingEvent to mod Baubles
+[16:46:08] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLModIdMappingEvent to mod Baubles
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Baubles took 0.001s
+[16:46:08] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLModIdMappingEvent to mod Thaumcraft
+[16:46:08] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLModIdMappingEvent to mod Thaumcraft
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Thaumcraft took 0.000s
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.005s
+[16:46:08] [Server thread/INFO] [FML/]: Applying holder lookups
+[16:46:08] [Server thread/INFO] [FML/]: Holder lookups applied
+[16:46:08] [Server thread/DEBUG] [FML/]: Frozen state restored.
+[16:46:08] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[16:46:08] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.001s
+[16:46:08] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[16:46:08] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.006s
+[16:46:08] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[16:46:08] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.001s
+[16:46:08] [Server thread/TRACE] [IC2/IC2]: Sending event FMLServerStoppedEvent to mod IC2
+[16:46:08] [Server thread/TRACE] [IC2/IC2]: Sent event FMLServerStoppedEvent to mod IC2
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - IndustrialCraft 2 took 0.001s
+[16:46:08] [Server thread/TRACE] [IronChest/IronChest]: Sending event FMLServerStoppedEvent to mod IronChest
+[16:46:08] [Server thread/TRACE] [IronChest/IronChest]: Sent event FMLServerStoppedEvent to mod IronChest
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Iron Chest took 0.001s
+[16:46:08] [Server thread/TRACE] [journeymap/journeymap]: Sending event FMLServerStoppedEvent to mod journeymap
+[16:46:08] [Server thread/TRACE] [journeymap/journeymap]: Sent event FMLServerStoppedEvent to mod journeymap
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - JourneyMap took 0.000s
+[16:46:08] [Server thread/TRACE] [mantle/mantle]: Sending event FMLServerStoppedEvent to mod mantle
+[16:46:08] [Server thread/TRACE] [mantle/mantle]: Sent event FMLServerStoppedEvent to mod mantle
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Mantle took 0.001s
+[16:46:08] [Server thread/TRACE] [tconstruct/tconstruct]: Sending event FMLServerStoppedEvent to mod tconstruct
+[16:46:08] [Server thread/TRACE] [tconstruct/tconstruct]: Sent event FMLServerStoppedEvent to mod tconstruct
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Tinkers' Construct took 0.001s
+[16:46:08] [Server thread/TRACE] [Baubles/Baubles]: Sending event FMLServerStoppedEvent to mod Baubles
+[16:46:08] [Server thread/TRACE] [Baubles/Baubles]: Sent event FMLServerStoppedEvent to mod Baubles
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Baubles took 0.001s
+[16:46:08] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLServerStoppedEvent to mod Thaumcraft
+[16:46:08] [Server thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLServerStoppedEvent to mod Thaumcraft
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Thaumcraft took 0.000s
+[16:46:08] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.012s
