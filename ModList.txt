@@ -1,2 +1,15 @@
 List of Mods:
+Tinker's Construct
+Thaumcraft
+IC2
+JourneyMap
+IronChest
 
+
+Awaiting Updates:
+Ars Magicka 2
+Witchery
+COFH Mods
+
+Additions:
+NotEnoughItems
